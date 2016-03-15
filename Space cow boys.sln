@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space cow boys.CSharp.Plugins", "Space cow boys.CSharp.Plugins.csproj", "{3C43827C-6E06-6C72-3916-F3C23C95A9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space cow boys.CSharp", "Space cow boys.CSharp.csproj", "{9B0B3B92-2B21-DC15-57E9-D4A1475D20D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space cow boys.CSharp.Editor", "Space cow boys.CSharp.Editor.csproj", "{466562A9-10DF-0B3B-DAEE-6AD4B75A56AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C43827C-6E06-6C72-3916-F3C23C95A9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C43827C-6E06-6C72-3916-F3C23C95A9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C43827C-6E06-6C72-3916-F3C23C95A9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C43827C-6E06-6C72-3916-F3C23C95A9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0B3B92-2B21-DC15-57E9-D4A1475D20D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0B3B92-2B21-DC15-57E9-D4A1475D20D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0B3B92-2B21-DC15-57E9-D4A1475D20D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0B3B92-2B21-DC15-57E9-D4A1475D20D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466562A9-10DF-0B3B-DAEE-6AD4B75A56AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466562A9-10DF-0B3B-DAEE-6AD4B75A56AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466562A9-10DF-0B3B-DAEE-6AD4B75A56AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466562A9-10DF-0B3B-DAEE-6AD4B75A56AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

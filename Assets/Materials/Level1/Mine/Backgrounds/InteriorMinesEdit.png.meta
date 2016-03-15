@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: a7e8efd775ca0fb4cb21e1fafedccb06
+timeCreated: 1457012339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InteriorMinesEdit_0
+    21300002: InteriorMinesEdit_1
+    21300004: InteriorMinesEdit_2
+    21300006: InteriorMinesEdit_3
+    21300008: InteriorMinesEdit_4
+    21300010: InteriorMinesEdit_5
+    21300012: InteriorMinesEdit_6
+    21300014: InteriorMinesEdit_7
+    21300016: InteriorMinesEdit_8
+    21300018: InteriorMinesEdit_9
+    21300020: InteriorMinesEdit_10
+    21300022: InteriorMinesEdit_11
+    21300024: InteriorMinesEdit_12
+    21300026: InteriorMinesEdit_13
+    21300028: InteriorMinesEdit_14
+    21300030: InteriorMinesEdit_15
+    21300032: InteriorMinesEdit_16
+    21300034: InteriorMinesEdit_17
+    21300036: InteriorMinesEdit_18
+    21300038: InteriorMinesEdit_19
+    21300040: InteriorMinesEdit_20
+    21300042: InteriorMinesEdit_21
+    21300044: InteriorMinesEdit_22
+    21300046: InteriorMinesEdit_23
+    21300048: InteriorMinesEdit_24
+    21300050: InteriorMinesEdit_25
+    21300052: InteriorMinesEdit_26
+    21300054: InteriorMinesEdit_27
+    21300056: InteriorMinesEdit_28
+    21300058: InteriorMinesEdit_29
+    21300060: InteriorMinesEdit_30
+    21300062: InteriorMinesEdit_32
+    21300064: InteriorMinesEdit_33
+    21300066: InteriorMinesEdit_34
+    21300068: InteriorMinesEdit_35
+    21300070: InteriorMinesEdit_36
+    21300072: InteriorMinesEdit_37
+    21300074: InteriorMinesEdit_38
+    21300076: InteriorMinesEdit_39
+    21300078: InteriorMinesEdit_40
+    21300080: InteriorMinesEdit_41
+    21300082: InteriorMinesEdit_42
+    21300084: InteriorMinesEdit_43
+    21300086: InteriorMinesEdit_44
+    21300088: InteriorMinesEdit_45
+    21300090: InteriorMinesEdit_46
+    21300092: InteriorMinesEdit_47
+    21300094: InteriorMinesEdit_48
+    21300096: InteriorMinesEdit_49
+    21300098: InteriorMinesEdit_50
+    21300100: InteriorMinesEdit_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: InteriorMinesEdit_0
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 949
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 953
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 889
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 889
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 881
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 36}
+        - {x: -8.5, y: 36}
+        - {x: -26.5, y: 7}
+        - {x: -26.5, y: -25}
+        - {x: -25.5, y: -33}
+        - {x: -16.5, y: -36}
+        - {x: 22.5, y: -36}
+        - {x: 25.5, y: -34}
+        - {x: 26.5, y: -27}
+        - {x: 26.5, y: 22}
+    - name: InteriorMinesEdit_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 879
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 35.5}
+        - {x: -26.5, y: 8.5}
+        - {x: -26.5, y: -15.5}
+        - {x: -23.5, y: -35.5}
+        - {x: 24.5, y: -35.5}
+        - {x: 26.5, y: -29.5}
+        - {x: 26.5, y: 17.5}
+        - {x: 8.5, y: 35.5}
+    - name: InteriorMinesEdit_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 880
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 36}
+        - {x: -24.5, y: 30}
+        - {x: -26.5, y: 16}
+        - {x: -26.5, y: -11}
+        - {x: -8.5, y: -36}
+        - {x: 4.5, y: -36}
+        - {x: 26.5, y: -22}
+        - {x: 26.5, y: 29}
+        - {x: 24.5, y: 36}
+    - name: InteriorMinesEdit_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 881
+        width: 157
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 36}
+        - {x: -78.5, y: 7}
+        - {x: -78.5, y: -36}
+        - {x: 78.5, y: -36}
+        - {x: 78.5, y: 36}
+      - - {x: -44.5, y: 36}
+        - {x: -44.5, y: 35}
+        - {x: -40.5, y: 30}
+        - {x: -36.5, y: 31}
+        - {x: -32.5, y: 35}
+        - {x: -32.5, y: 36}
+    - name: InteriorMinesEdit_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 868
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 39.5}
+        - {x: -48, y: 32.5}
+        - {x: -56, y: 23.5}
+        - {x: -56, y: -39.5}
+        - {x: 35, y: -39.5}
+        - {x: 56, y: -32.5}
+        - {x: 56, y: 39.5}
+    - name: InteriorMinesEdit_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 921
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 921
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 921
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_15
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 917
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_16
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 917
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_17
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 917
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 883
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 880
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 1}
+        - {x: 3, y: 17}
+        - {x: -3, y: 17}
+        - {x: -5, y: 4}
+        - {x: -25, y: -13}
+        - {x: -25, y: -17}
+        - {x: 25, y: -17}
+        - {x: 25, y: -12}
+        - {x: 19, y: -4}
+    - name: InteriorMinesEdit_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 899
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 899
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 899
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 895
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 895
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_25
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 895
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 877
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 877
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 877
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_29
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 873
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_30
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 873
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 843
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 787
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 790
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 807
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 802
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 801
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_38
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 801
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 799
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 782
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 737
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 17}
+        - {x: -21.5, y: -13}
+        - {x: -18.5, y: -17}
+        - {x: 18.5, y: -17}
+        - {x: 21.5, y: -13}
+        - {x: 21.5, y: 17}
+    - name: InteriorMinesEdit_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 735
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -23}
+        - {x: 21.5, y: -23}
+        - {x: 21.5, y: 20}
+        - {x: 13.5, y: 23}
+    - name: InteriorMinesEdit_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 786
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -393, y: 222.5}
+        - {x: -393, y: -222.5}
+        - {x: 393, y: -222.5}
+        - {x: 393, y: 222.5}
+    - name: InteriorMinesEdit_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 238
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 143
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 143
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 143
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InteriorMinesEdit_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 34
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 47}
+        - {x: -40, y: -47}
+        - {x: 40, y: -47}
+        - {x: 40, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

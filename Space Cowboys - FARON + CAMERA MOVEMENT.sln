@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{29F6EDAA-E476-65C2-A28A-D31403277260}") = "Space Cowboys - FARON + CAMERA MOVEMENT", "Assembly-CSharp-firstpass.csproj", "{3E5F2BE0-0A90-7B50-E769-5F75B22E76A2}"
+EndProject
+Project("{29F6EDAA-E476-65C2-A28A-D31403277260}") = "Space Cowboys - FARON + CAMERA MOVEMENT", "Assembly-CSharp.csproj", "{1BB62369-A87F-E9FE-B96A-5D9856D6345E}"
+EndProject
+Project("{29F6EDAA-E476-65C2-A28A-D31403277260}") = "Space Cowboys - FARON + CAMERA MOVEMENT", "Assembly-CSharp-Editor.csproj", "{A88CBC7B-700A-C973-5286-4C8BE8A6CE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5F2BE0-0A90-7B50-E769-5F75B22E76A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5F2BE0-0A90-7B50-E769-5F75B22E76A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5F2BE0-0A90-7B50-E769-5F75B22E76A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5F2BE0-0A90-7B50-E769-5F75B22E76A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB62369-A87F-E9FE-B96A-5D9856D6345E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB62369-A87F-E9FE-B96A-5D9856D6345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB62369-A87F-E9FE-B96A-5D9856D6345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB62369-A87F-E9FE-B96A-5D9856D6345E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88CBC7B-700A-C973-5286-4C8BE8A6CE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88CBC7B-700A-C973-5286-4C8BE8A6CE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88CBC7B-700A-C973-5286-4C8BE8A6CE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88CBC7B-700A-C973-5286-4C8BE8A6CE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+												GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal
